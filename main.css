@@ -1,0 +1,25 @@
+* {
+    margin: auto;
+    padding: auto;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+#semafor {
+    width: 100px;
+    height: 300px;
+    margin:60px;
+    border-radius: 50px;
+    border: 1px solid silver;
+    margin-left: 200px;
+}
+
+
+.boje {
+    width: 70px;
+    height: 70px;
+    border: 1px solid silver;
+    border-radius: 50px;
+    margin: 17px;
+}
